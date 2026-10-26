@@ -1,0 +1,6 @@
+{
+  "name": "Absensi & Kolase Otomatis",
+  "description": "Sistem absensi harian terintegrasi Google Forms & Sheets dengan generator kolase dokumentasi foto otomatis 6 foto per lembar beresolusi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
